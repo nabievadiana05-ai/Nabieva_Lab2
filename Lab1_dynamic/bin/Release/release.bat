@@ -1,3 +1,3 @@
-set PATH=C:\Program Files\CodeBlocks\MinGW\bin;%PATH%;%PATH%;%PATH%
+set PATH=C:\Program Files\CodeBlocks\MinGW\bin;%PATH%
 Lab1_dynamic.exe
 pause
